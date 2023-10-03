@@ -8,7 +8,7 @@ body {
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2.5em;
-    color: aquamarine
+    color: aquamarine;
 }
 
 a {
