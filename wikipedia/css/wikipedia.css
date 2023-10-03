@@ -9,26 +9,23 @@ body{
     font-size: 20px;
 }
 
-h1{
+header img{ 
+    width: 50%;
+}
+
+h2{
     font-family: Georgia, 'Times New Roman', Times, serif;
+ color:#FF5733;
+}
+
+h1{
     font-size: 2.5em;
+   font-style: italic; 
+   color: #F752E3;
 }
 
-a{
-    color:#FF5733;
-    font-weight: 700;
+h3{
+color: #F752E3;
 }
 
-nav a {
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
 
-header p{
-    color:#FF5733;
-}
-nav a {
-    text-transform: uppercase; 
-    font-size: .85em;
-    letter-spacing: 0.1em;
-}
