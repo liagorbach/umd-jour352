@@ -50,6 +50,7 @@ h6 {
 
 img{
     width: 60%;
+
 }
 
 
@@ -77,3 +78,13 @@ p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
+
+#description{
+    text-align: center;
+}
+
+#headshot{
+    width: 300px;
+    height: 450px;
+}
+
