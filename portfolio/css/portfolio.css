@@ -1,48 +1,51 @@
-/*
-font-family: 'Mooli', sans-serif;
-font-family: 'Barlow', sans-serif; 
-*/
+
 
 body {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     color: darkolivegreen;
 
-}
-
-h1 {
-    font-size: 55px;
-    font-family: 'Times New Roman', Times, serif;
-    color: darkolivegreen;
 }
 
 header,
 .top {
     text-align: center;
+    color: black;
 }
 
 div {
     text-align: center;
 }
 
-h4 {
+#description {
+    text-align: center;
+}
+
+main,
+section{
+    margin: 3cm 0;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h2 {
     background-color: rgb(99, 124, 56);
-    font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     color: white;
     text-align: center;
-    font-style: italic
+    font-style: italic;
 }
 
-p1 {
-    font-family: 'Times New Roman', Times, serif;
+#description p,
+#resume p,
+#clubs p { 
     color: black;
-    font-size: 18px;
 }
 
-h6 {
+h3 {
     background-color: rgb(199, 172, 177);
-    font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     color: black;
     text-align: center;
@@ -53,24 +56,9 @@ img {
 
 }
 
+h4 {
 
-h5 {
-    font-family: 'Times New Roman', Times, serif;
-    color: darkolivegreen;
     font-size: 25px;
 }
+ 
 
-p2 {
-    color: black;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px;
-}
-
-#description {
-    text-align: center;
-}
-
-#headshot {
-    width: 300px;
-    height: 450px;
-}
