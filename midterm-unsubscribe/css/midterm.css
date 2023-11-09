@@ -1,0 +1,144 @@
+header {
+    min-height: 20vh;
+    background-color: black;
+    text-align: center;
+    color: #FCFDFE;
+    font-family: Inconsolata;
+    font-size: 1em;
+}
+
+h1 {
+    color: black;
+    font-family: Inconsolata;
+    font-size: 2.5em;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 100px 0px 20px;
+}
+
+.box1 {
+    padding: 5px 200px 10px;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+p3 {
+    color: red;
+    font-family: Inconsolata;
+    font-size: 1em;
+}
+
+h2 {
+    font-family: Inconsolata;
+    font-size: 1.75em;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 40px 0px 20px;
+}
+
+.box2 {
+    text-align: center;
+    font-family: inconsolata;
+    font-weight: 500;
+    padding: 10px 200px 10px;
+}
+
+.box3 {
+    letter-spacing: .25em;
+    text-align: center;
+    font-weight: 300;
+    padding: 10px 200px 80px;
+}
+
+.box4 {
+    background-color: black;
+    padding: 100px 50px 50px;
+}
+
+div.box5 {
+    position: absolute;
+    background-color: black;
+    padding: 200px 200px 80px;
+    font-family: Inconsolata;
+    color: white;
+}
+
+div.box5-info {
+    position: relative;
+    background-color: black;
+    color: white;
+    padding: 20px 0px;
+    font-family: Roboto;
+    font-size: 15px;
+}
+
+div.vimeo {
+    background-color: white;
+    color: black;
+    font-family: Inconsolata;
+    position: absolute;
+    padding: 10px 200px 50px;
+}
+
+footer {
+    font-family: Inconsolata;
+
+}
+
+h3 {
+    font-family: Inconsolata;
+    font-size: 1.75em;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 40px 0px 20px;
+}
+
+.video {
+    max-width: 500px;
+    float: right;
+    padding: 10px 30px 100px
+}
+
+.video1 {
+    max-width: 500px;
+    float: right;
+    padding: 10px 30px 100px;
+}
+
+.video2 {
+    max-width: 500px;
+    float: right;
+    padding: 100px 30px 100px;
+}
+
+.text {
+    padding: 130px 0px 100px;
+}
+
+.text p {
+    padding: 30px 0px 100px;
+}
+
+.text3 {
+    padding: 20px 0px 100px;
+}
+
+.text4 {
+    padding: 100px 0px 100px;
+}
+
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 4em;
+    }
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 2em;
+    }
+}
